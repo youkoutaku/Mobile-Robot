@@ -10,8 +10,7 @@ We made a mobile robot that can trace lines using a photo reflector, park in a g
   - Arduino
   - Main C (H8)
 - Photo
-- Report
-  - 最終報告書_20t1126n_YANG GUANGZE
+- Report.pdf
 - Contest Video
 
 ![](video.gif)
