@@ -11,4 +11,4 @@ We made a mobile robot that can trace lines using a photo reflector, park in a g
 - Report
   - 最終報告書_20t1126n_YANG GUANGZE
 - Contest Video
-![](最終版.mp4)
+![](https://github.com/youkoutaku/Mobile-Robot/raw/refs/heads/main/%E6%9C%80%E7%B5%82%E7%89%88.mp4)
