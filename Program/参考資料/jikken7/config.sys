@@ -1,0 +1,14 @@
+dram b=400000 s=200000 bw=8 w=0
+sci0 f=20000000 br=57600
+sci1 f=20000000 br=57600
+memory b=400000 s=180000
+ram0 b=580000 s=80000
+usb0 ar=200000 dr=200002 bw=8
+ne0 b=200000 bw=8 irq=5
+mmc0 p=11 cs=0 clk=6 cmd=1 dat=7
+mmc1 p=11 cs=0 sio=2
+i2c0 p=6 clk=1 dat=0 size=8000
+lcd0 p=4 d4=0 d5=1 d6=2 d7=3 rs=4 e=5 row=2 col=16
+lcd1 p=4 d4=0 d5=1 d6=2 d7=3 rs=4 e=5 row=4 col=20
+boot dev=/ram0/
+end
