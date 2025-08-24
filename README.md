@@ -1,4 +1,4 @@
-# Mobile-Robot
+# Robo-Comp-2022
 
 A mobile robot developed by undergraduate students for autonomous navigation and task execution. This project demonstrates advanced trajectory control and sensor integration for competitive robotics.
 
